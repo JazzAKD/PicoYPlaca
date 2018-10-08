@@ -1,16 +1,27 @@
 # PicoYPlaca
-Programa para verificar por número de placa, fecha y hora si un automóvil puede circular o no en la ciudad de Quito - Ecuador.
 
-Programa desarrollado en C++.
+Program to verify by plate number, date and hour if a vehicle can or can not circulate in Quito - Ecuador.
 
-Ambiente de trabajo:
+Program developed in C++.
 
--   IDE: Dev C++
--    Test: 
+Work Environment:
 
-Para ejecutar el programa:
+-   IDE: Visual Studio 2017
+-   Test: Google Test
 
--   Despliegue el proyecto, navegue hasta src/main.exe.
--   Siga las instrucciones mostradas en consola.
 
-Para ejecutar el test de los validadores
+## Instructions:
+
+To execute the program:
+
+- Unzip in a folder PicoYPlaca-master.zip archive.
+- Open Visual Studio.
+- Clic on File/Open/Project or Solution.
+- Go to unzip folder and select PicoYPlaca.sln.
+- Build the solution( Build Tab/Build Solution).
+- Debug the solution (Debug Tab/Start Debugging).
+- Follow the instructions displayed in the console.
+
+To execute the tests
+
+-  While the project is building and debugging the unit test are running and you only need to check in the left side in "Test Explorer" (Test Tab/Windows/Test Explorer).  
