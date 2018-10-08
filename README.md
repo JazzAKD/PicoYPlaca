@@ -2,7 +2,7 @@
 
 This sample code was made to verify by plate number, date and hour if a vehicle can or can not circulate in Quito - Ecuador.
 
-Program developed in C++.
+This code was developed in C++.
 
 Work Environment:
 
@@ -17,7 +17,7 @@ To execute the program:
 - Clone this project into a folder.
 - Open Visual Studio.
 - Clic on File/Open/Project or Solution.
-- Go to unzip folder and select PicoYPlaca.sln.
+- Go to the cloned folder and select PicoYPlaca.sln.
 - Build the solution( Build Tab/Build Solution).
 - Debug the solution (Debug Tab/Start Debugging).
 - Follow the instructions displayed in the console.
