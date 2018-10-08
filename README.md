@@ -1,6 +1,6 @@
 # PicoYPlaca
 
-Program to verify by plate number, date and hour if a vehicle can or can not circulate in Quito - Ecuador.
+This sample code was made to verify by plate number, date and hour if a vehicle can or can not circulate in Quito - Ecuador.
 
 Program developed in C++.
 
@@ -14,7 +14,7 @@ Work Environment:
 
 To execute the program:
 
-- Unzip in a folder PicoYPlaca-master.zip archive.
+- Clone this project into a folder.
 - Open Visual Studio.
 - Clic on File/Open/Project or Solution.
 - Go to unzip folder and select PicoYPlaca.sln.
@@ -25,3 +25,8 @@ To execute the program:
 To execute the tests
 
 -  While the project is building and debugging the unit test are running and you only need to check in the left side in "Test Explorer" (Test Tab/Windows/Test Explorer).  
+
+
+***Note:***
+
+Maybe the folder "PicoYPlaca" looks messy but when you open it in the IDE (Visual Studio) this project looks organized by logic form.
