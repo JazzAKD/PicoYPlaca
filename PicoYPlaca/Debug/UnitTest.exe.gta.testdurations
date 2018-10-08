@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\USER\Downloads\Stack_visual\Visual\PicoYPlaca\Debug\UnitTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="TestHourCase.TestReceiveHour" Duration="1" />
+    <TestDuration Test="TestHourCase.TestChecHourTrue" Duration="1" />
+    <TestDuration Test="TestHourCase.TestCheckHourFalse" Duration="1" />
+    <TestDuration Test="TestPlateNumberCase.TestReceivePlateNumber" Duration="1" />
+    <TestDuration Test="TestPlateNumberCase.TestCheckPlateNumberTrue" Duration="1" />
+    <TestDuration Test="TestPlateNumberCase.TestCheckPlateNumberFalse" Duration="1" />
+    <TestDuration Test="TestDateCase.TestReceiveDate" Duration="1" />
+    <TestDuration Test="TestDateCase.TestCheckDateTrue" Duration="1" />
+    <TestDuration Test="TestDateCase.TestCheckDateFalse" Duration="1" />
+    <TestDuration Test="TestDateCase.TestVerifyDayMonthTrue" Duration="1" />
+    <TestDuration Test="TestDateCase.TestVerifyDayMonthFalse" Duration="1" />
+    <TestDuration Test="TestDateCase.TestPrintDate" Duration="1" />
+    <TestDuration Test="TestPicoYPlacaVerficatorCase.TestPicoYPlacaVerficatorTrue" Duration="1" />
+    <TestDuration Test="TestPicoYPlacaVerficatorCase.TestPicoYPlacaVerficatorFalse" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
